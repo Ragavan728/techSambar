@@ -26,20 +26,14 @@
 }
 .btn:hover{
     background-color: var(--darkColor);
-    color: var(--teriaryColor);
+    color: var(--);
 }
 
 .last-btn {
     background-color: var(--primaryColor);
-    color: var(--lightColor);
     font-size: 1.4rem;
 }
 
-.last-btn:hover {
-    background-color: var(--teriaryColor);
-    color: var(--primaryColor);
-    font-size: 1.4rem;
-}
 .navbar-brand {
     width: 15rem;
 }

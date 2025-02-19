@@ -24,22 +24,17 @@
     background-color: var(--teriaryColor);
     font-size: 1.4rem;
 }
-.btn:hover{
+.btn:hover,
+.jumbotron .btn{
     background-color: var(--darkColor);
     color: var(--teriaryColor);
 }
 
 .last-btn {
     background-color: var(--primaryColor);
-    color: var(--lightColor);
     font-size: 1.4rem;
 }
 
-.last-btn:hover {
-    background-color: var(--teriaryColor);
-    color: var(--primaryColor);
-    font-size: 1.4rem;
-}
 .navbar-brand {
     width: 15rem;
 }
