@@ -87,6 +87,12 @@
     color: var(--lightColor);
     font-size: 1.8rem;
 }
+.rounded-circle {
+    
+    font-size: 1.6rem;
+    background-color: var(--teriaryColor);
+    color: var(--darkColor);
+}
 
 .card-title {
     font-family: var(--ffTertiary);

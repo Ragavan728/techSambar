@@ -87,6 +87,13 @@
     color: var(--lightColor);
     font-size: 1.8rem;
 }
+/* .rounded-circle {
+    padding: 1rem;
+    aspect-ratio: 1/1;
+    font-size: 1.6rem;
+    background-color: var(--teriaryColor);
+    color: var(--lightColor);
+} */
 
 .card-title {
     font-family: var(--ffTertiary);
